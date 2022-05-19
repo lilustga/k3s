@@ -1,4 +1,4 @@
 [submodule "plugins"]
 	path = plugins
 	url = https://github.com/rancher/plugins.git
-	branch = 1.1.1-k3s
+	branch = k3s-v1.1.1
